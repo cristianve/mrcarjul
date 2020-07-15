@@ -31,9 +31,9 @@ Hi, I'm Carlos, a Front End Developer 🚀 from México, currently, I'm a Team M
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on an a for a huge loans company located in Hong Kong;
+- 👨🏽‍💻 I’m currently working on an app a for a huge loans company located in Hong Kong;
 - 🌱 I’m currently learning GraphQL and TypeScript; 
-- 👯 I’m looking to collaborate on react-native-community 🤝;
+- 👯 I’m looking to collaborate on react-native-community or any open source that requires a react-native 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help(mostly React Native or apps development);
 - ⚡️ Fun-Fact: I was actually a massage Therapisth and i switched career at 25 now i'm a happy software engineer, best decision ever =)
